@@ -16,4 +16,6 @@
 8. Во время запроса форма блокируется.
 9. Длинные заголовки постов обрезаются троеточием, если они превышают ширину карточки.
 
-![Снимок экрана 2024-10-17 в 17 45 10](https://github.com/user-attachments/assets/cb4c37ee-bed0-46de-beae-2791732ba87e)
+![photo_2024-10-17 18 37 25](https://github.com/user-attachments/assets/91f693ec-a7ad-45d4-97a1-2ab169a61028)
+![photo_2024-10-17 18 37 23](https://github.com/user-attachments/assets/c2343e03-0d48-45d9-9918-ba1ca07431e1)
+![photo_2024-10-17 18 37 18](https://github.com/user-attachments/assets/4564c97a-0a1c-41d1-a20e-4f8ad999c588)
